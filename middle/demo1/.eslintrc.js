@@ -41,6 +41,8 @@ module.exports = {
     "quotes": [0, "single"],
     "indent": [0, 4],
     "eol-last": 0,
+    "comma-dangle": 0,
+    "no-trailing-spaces": 0,
     "space-before-function-paren": [0, "always"],//函数定义时括号前面要不要有空格
   }
 };

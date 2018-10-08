@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
+    <h3>阿西吧 今天上班撒</h3>
     <router-view/>
   </div>
 </template>
